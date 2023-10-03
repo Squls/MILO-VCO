@@ -1,1 +1,1 @@
-# MILO-VCO
+# MILO-Modular
